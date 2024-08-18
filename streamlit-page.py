@@ -4,7 +4,7 @@ import requests
 import re
 
 # API endpoint
-API_URL = "https://jtw4pu5v45.execute-api.us-east-1.amazonaws.com/Dev/text-summarization"  # Replace with the actual API URL
+API_URL = "https://lambda api link "  # Replace with the actual API URL
 
 def get_api_response(prompt):
     """Function to get response from the API"""
